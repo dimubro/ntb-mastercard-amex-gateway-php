@@ -2,32 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <title>NTB Mastercard & Amex Gateway - PHP</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h2 {
-      color: #444;
-    }
-    ul {
-      margin-top: 0;
-    }
-    code, pre {
-      background: #eee;
-      padding: 10px;
-      display: block;
-      border-radius: 5px;
-      white-space: pre-wrap;
-    }
-    hr {
-      margin: 30px 0;
-      border: none;
-      border-top: 1px solid #ccc;
-    }
-  </style>
+  
 </head>
 <body>
 
