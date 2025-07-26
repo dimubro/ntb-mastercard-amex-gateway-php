@@ -1,9 +1,5 @@
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>NTB Mastercard & Amex Gateway - PHP</title>
-  
-</head>
+
 <body>
 
   <h2>🚀 Features</h2>
